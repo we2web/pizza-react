@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pizza-react/static/css/main.6332809d.chunk.css",
-    "main.js": "/pizza-react/static/js/main.c58d4607.chunk.js",
-    "main.js.map": "/pizza-react/static/js/main.c58d4607.chunk.js.map",
+    "main.css": "/pizza-react/static/css/main.a2e4a5c2.chunk.css",
+    "main.js": "/pizza-react/static/js/main.34e5b363.chunk.js",
+    "main.js.map": "/pizza-react/static/js/main.34e5b363.chunk.js.map",
     "runtime-main.js": "/pizza-react/static/js/runtime-main.cdf509b7.js",
     "runtime-main.js.map": "/pizza-react/static/js/runtime-main.cdf509b7.js.map",
     "static/js/2.5d89ed37.chunk.js": "/pizza-react/static/js/2.5d89ed37.chunk.js",
@@ -10,15 +10,19 @@
     "static/js/3.4a2b7a2d.chunk.js": "/pizza-react/static/js/3.4a2b7a2d.chunk.js",
     "static/js/3.4a2b7a2d.chunk.js.map": "/pizza-react/static/js/3.4a2b7a2d.chunk.js.map",
     "index.html": "/pizza-react/index.html",
-    "static/css/main.6332809d.chunk.css.map": "/pizza-react/static/css/main.6332809d.chunk.css.map",
+    "static/css/main.a2e4a5c2.chunk.css.map": "/pizza-react/static/css/main.a2e4a5c2.chunk.css.map",
     "static/js/2.5d89ed37.chunk.js.LICENSE.txt": "/pizza-react/static/js/2.5d89ed37.chunk.js.LICENSE.txt",
-    "static/media/logo.73f4d24e.png": "/pizza-react/static/media/logo.73f4d24e.png",
-    "static/media/index.css": "/pizza-react/static/media/temp.9777eec5.jpg"
+    "static/media/pizza.0a62753a.jpg": "/pizza-react/static/media/pizza.0a62753a.jpg",
+    "static/media/pizza1.d8f37d49.jpg": "/pizza-react/static/media/pizza1.d8f37d49.jpg",
+    "static/media/pizza3.85dc67ec.png": "/pizza-react/static/media/pizza3.85dc67ec.png",
+    "static/media/pizza4.f03c9d6b.png": "/pizza-react/static/media/pizza4.f03c9d6b.png",
+    "static/media/pizza5.cb67f4d4.png": "/pizza-react/static/media/pizza5.cb67f4d4.png",
+    "static/media/index.css": "/pizza-react/static/media/temp.38f4b351.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cdf509b7.js",
     "static/js/2.5d89ed37.chunk.js",
-    "static/css/main.6332809d.chunk.css",
-    "static/js/main.c58d4607.chunk.js"
+    "static/css/main.a2e4a5c2.chunk.css",
+    "static/js/main.34e5b363.chunk.js"
   ]
 }
